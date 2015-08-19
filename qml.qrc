@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rc/appicon.png</file>
+        <file>qml/ButtonBar.qml</file>
+        <file>qml/ChessBoard.qml</file>
+        <file>qml/main.qml</file>
+        <file>rc/chessimg/black_bishop.svg</file>
+        <file>rc/chessimg/black_king.svg</file>
+        <file>rc/chessimg/black_knight.svg</file>
+        <file>rc/chessimg/black_pawn.svg</file>
+        <file>rc/chessimg/black_queen.svg</file>
+        <file>rc/chessimg/black_rook.svg</file>
+        <file>rc/chessimg/white_bishop.svg</file>
+        <file>rc/chessimg/white_king.svg</file>
+        <file>rc/chessimg/white_knight.svg</file>
+        <file>rc/chessimg/white_pawn.svg</file>
+        <file>rc/chessimg/white_queen.svg</file>
+        <file>rc/chessimg/white_rook.svg</file>
+        <file>qml/ChessPiece.qml</file>
+        <file>qml/HistoryDialog.qml</file>
+        <file>qml/functions.js</file>
+    </qresource>
+</RCC>
